@@ -1,0 +1,12 @@
+
+
+I love writing software. I find it to be the perfect framework for creativity, where everything is possible. At the same time software development requires you to keep a cool head, and be a problem solver. As a Software engineer, I strive to be equal parts creative and analytical.
+
+This is in part where my facination with the web come from. The relaxed nature of the web technologies, means that old programming paradigms are questioned and analyzed. New ideas and paradigms are emerging, and  
+
+
+In 2012 i wrote my master thesis on Machine learning in intelligent buildings. The thesis was a study in the possibilities on integrating machine learning algorithms into modern home control systems.
+
+From 2010 to 2011, i cofounded startup company called jollytime.dk. Though jollytime.dk never became a financial success, I aquired plenty of useful experience in web development and PHP.
+
+You should hire me because I am passionate about web development. I spend a large part of my free time playing with new frameworks and libraries, or watching the latest Google Tech Talks. I Think the web is most amazing application platform we have ever had, and i love working with it.
