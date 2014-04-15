@@ -1,0 +1,88 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?sps82y');
+	src:url('fonts/icomoon.eot?#iefixsps82y') format('embedded-opentype'),
+		url('fonts/icomoon.woff?sps82y') format('woff'),
+		url('fonts/icomoon.ttf?sps82y') format('truetype'),
+		url('fonts/icomoon.svg?sps82y#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pacman:before {
+	content: "\e612";
+}
+.icon-gamepad:before {
+	content: "\e613";
+}
+.icon-graduate:before {
+	content: "\e600";
+}
+.icon-lab:before {
+	content: "\e601";
+}
+.icon-tie:before {
+	content: "\e602";
+}
+.icon-spaceinvaders:before {
+	content: "\e603";
+}
+.icon-rocket:before {
+	content: "\e604";
+}
+.icon-home:before {
+	content: "\e605";
+}
+.icon-home2:before {
+	content: "\e606";
+}
+.icon-home3:before {
+	content: "\e607";
+}
+.icon-office:before {
+	content: "\e608";
+}
+.icon-library:before {
+	content: "\e609";
+}
+.icon-envelope:before {
+	content: "\e60a";
+}
+.icon-location:before {
+	content: "\e60b";
+}
+.icon-location2:before {
+	content: "\e60c";
+}
+.icon-mobile:before {
+	content: "\e60d";
+}
+.icon-user:before {
+	content: "\e60e";
+}
+.icon-github:before {
+	content: "\e60f";
+}
+.icon-github2:before {
+	content: "\e610";
+}
+.icon-apple:before {
+	content: "\e614";
+}
+.icon-linkedin:before {
+	content: "\e611";
+}
