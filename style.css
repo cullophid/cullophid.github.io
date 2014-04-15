@@ -66,6 +66,9 @@ ul.none li {
 	-moz-transition: opacity 1s;
 }
 @media print {
+	body {
+		background-color: #fff !important;
+	}
 	.animate  {
 		opacity:1;
 	}
