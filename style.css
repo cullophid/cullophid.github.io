@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
+body {
+	font-family: 'Lato', sans-serif;
+	color : #454545 !important;
+}
+header {
+	margin-bottom: 50px;
+}
+.info-box {
+	color:#7A6A53 !important;
+	font-size:12px;
+}
+.info-box p,
+.info-box span,
+.info-box h4,
+.info-box div {
+	color:#7A6A53 !important;
+}
+h1 {
+	color :#676767 !important;
+	font-size: 50px;
+	line-height: 1;
+	margin-bottom: 0;
+}
+h2 {
+	font-size : 38px;
+	font-weight: 100;
+	margin-top: 0px;
+	line-height: 1;
+	color : #1e8fc6 !important;
+}
+section h4 {
+	color: #7A6A53 !important;
+	border-bottom: 1px solid #7A6A53;
+}
+p {
+	font-family: 'Lato', sans-serif;
+	white-space: pre-line;
+}
+ul.none li {
+	list-style-type: none;
+	margin-bottom: 6px;
+}
+.page {
+	padding-top : 20px;
+	padding-bottom : 20px;
+	margin-bottom: 100px;
+}
+.indent {
+	padding-left: 26px;
+}
+.indent:before {
+	position: absolute;
+	left: 0px;
+}
+@media print {
+	.page {
+		page-break-before: always;
+	}
+	.dont-break {
+		page-break-inside: avoid;
+	}
+	.col-sm-4 {
+		float:left;
+		width : 33%!important;
+	}
+	.col-sm-8 {
+		float:left;
+		width : 66% !important;
+	}
+	.col-sm-6 {
+		float:left;
+		width : 50% !important;
+	}
+}
