@@ -34,6 +34,9 @@ section h4 {
 	color: #7A6A53 !important;
 	border-bottom: 1px solid #7A6A53;
 }
+section  {
+	margin-bottom: 10px;
+}
 p {
 	font-family: 'Lato', sans-serif;
 	white-space: pre-line;
@@ -54,7 +57,18 @@ ul.none li {
 	position: absolute;
 	left: 0px;
 }
+.animate {
+	opacity : 0;
+	transition: opacity 1s;
+	-o-transition : opacity 1s;
+	-ms-transition:opacity 1s;
+	-webkit-transition: opacity 1s;
+	-moz-transition: opacity 1s;
+}
 @media print {
+	.animate  {
+		opacity:1;
+	}
 	.page {
 		page-break-before: always;
 	}
@@ -74,3 +88,4 @@ ul.none li {
 		width : 50% !important;
 	}
 }
+
