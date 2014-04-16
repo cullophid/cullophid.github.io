@@ -6,6 +6,6 @@ $(function() {
         var $this = $(this)
         setTimeout(function() {
             $this.css('opacity', 1);
-        }, (Math.random() * 3000));
+        }, (Math.random() * 2000));
     });
 });

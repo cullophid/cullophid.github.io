@@ -83,8 +83,12 @@ ul.none li {
 	.page {
 		page-break-before: always;
 	}
-	.dont-break {
+	.no-break,
+	section {
 		page-break-inside: avoid;
+	}
+	.no-break-before {
+		page-break-before: avoid;
 	}
 	.col-sm-4 {
 		float:left;
