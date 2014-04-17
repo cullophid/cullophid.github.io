@@ -41,6 +41,9 @@ section h4 {
 section  {
 	margin-bottom: 10px;
 }
+.signature {
+	width: 60px;
+}
 p {
 	font-family: 'Lato', sans-serif;
 	white-space: pre-line;
