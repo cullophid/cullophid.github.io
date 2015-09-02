@@ -2,9 +2,10 @@
 body {
 	font-family: 'Lato', sans-serif;
 	color : #454545 !important;
+	font-size: 14px;
 }
 header {
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 }
 .info-box {
 	color:#7A6A53 !important;
@@ -54,9 +55,9 @@ ul.none li {
 	margin-bottom: 6px;
 }
 .page {
-	padding-top : 20px;
-	padding-bottom : 20px;
-	margin-bottom: 100px;
+	padding-top : 10px;
+	padding-bottom : 10px;
+	margin-bottom: 50px;
 }
 .indent {
 	padding-left: 26px;
