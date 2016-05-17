@@ -11,6 +11,7 @@ header {
 	color:#7A6A53 !important;
 	font-size:12px;
 	margin-bottom: 50px;
+  margin-top: 50px;
 }
 .info-box p,
 .info-box span,
@@ -24,11 +25,11 @@ h1 {
 	line-height: 1;
 	margin-bottom: 0;
 }
-h2 {
-	font-size : 38px;
+.thin {
+  font-weight: 300;
+}
+.thin {
 	font-weight: 100;
-	margin-top: 0px;
-	line-height: 1;
 	color : #1e8fc6 !important;
 }
 h4 span {
@@ -49,6 +50,7 @@ p {
 	font-family: 'Lato', sans-serif;
 	white-space: pre-line;
 	line-height: 1.4;
+  margin-bottom: 30px;
 }
 ul.none li {
 	list-style-type: none;
@@ -89,7 +91,7 @@ ul.none li {
 	}
 	.no-break,
 	section {
-		page-break-inside: avoid;
+		/*page-break-inside: avoid;*/
 	}
 	.no-break-before {
 		page-break-before: avoid;
